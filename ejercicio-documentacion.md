@@ -40,7 +40,7 @@ class Persona:
 	def saludar(self):                 # Método para saludar
 		print(f"Hola, mi nombre es {self.nombre} y tengo {self.edad} años.")
 
-# Creamos una persona (objeto/instancia) llamando la Classe y passando los atributos
+# Creamos una persona (objeto/instancia) llamando la Clase y pasando los atributos
 p1 = Persona("Caty", 25)
 # Usamos el método saludar
 p1.saludar()  # Salida: Hola, mi nombre es Caty y tengo 25 años.
@@ -191,7 +191,7 @@ MongoDB es una base de datos **NoSQL**. Esto significa que no utiliza tablas ni 
   "edad": 25,
   "hobbies": ["leer", "bailar"],
   "direccion": {
-    "ciudad": "Madrid",
+    "ciudad": "Bilbao",
     "pais": "España"
   }
 }
@@ -415,7 +415,7 @@ print(l)  # Salida: Libro: 1984
 ```
 
 **¿Qué pasa en el ejemplo?**
-Cuando usamos `print(ejemplo)`, Python llama automáticamente a `ejemplo.__str__()`, que devuelve el texto personalizado. Osea, el `__str__` se ejecuta automaticamente con print() sin que tener que dar el nombre al metodo y llamarlo directamente.
+Cuando usamos `print(ejemplo)`, Python llama automáticamente a `ejemplo.__str__()`, que devuelve el texto personalizado. Osea, el `__str__` se ejecuta automaticamente con print() sin que tener que dar el nombre al método y llamarlo directamente.
 
 **Lista de métodos dunder comunes:**
 
