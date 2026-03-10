@@ -11,7 +11,7 @@ Las clases en Python son una herramienta fundamental de la programación orienta
 - Para modelar entidades complejas (por ejemplo: un auto, un usuario, una factura).
 - Para facilitar el mantenimiento y la ampliación del código.
 
-**Catylogía:**
+**Analogía:**
 
 Piensa en una clase como un plano para construir casas. El plano define cómo será la casa (puertas, ventCatys, habitaciones), pero cada casa construida a partir de ese plano puede tener detalles propios (color, dueño, dirección). Cada casa es un objeto (instancia) de la clase "Casa".
 
