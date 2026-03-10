@@ -13,7 +13,7 @@ Las clases en Python son una herramienta fundamental de la programación orienta
 
 **Analogía:**
 
-Piensa en una clase como un plano para construir casas. El plano define cómo será la casa (puertas, ventCatys, habitaciones), pero cada casa construida a partir de ese plano puede tener detalles propios (color, dueño, dirección). Cada casa es un objeto (instancia) de la clase "Casa".
+Piensa en una clase como un plano para construir casas. El plano define cómo será la casa (puertas, ventanas, habitaciones), pero cada casa construida a partir de ese plano puede tener detalles propios (color, dueño, dirección). Cada casa es un objeto (instancia) de la clase "Casa".
 
 **Sintaxis básica:**
 
